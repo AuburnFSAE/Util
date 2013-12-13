@@ -1,8 +1,7 @@
-
 #ifndef WEMSType_H
 #define WEMSType_H
 
-namespace WEMS{
+
 
 /**Typedef aliasis of primitive and user types*/
 	typedef float				sflt;
@@ -19,5 +18,5 @@ namespace WEMS{
 	//typedef unsigned long long	ui64;
 
 /** Action delegate signature*/	
-}
+
 #endif
